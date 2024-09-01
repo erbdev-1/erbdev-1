@@ -9,7 +9,7 @@
 ### Fun Facts:
 
 - 🎸 I love playing the guitar and have been part of a local band for 5 years.
-- 🌍 I'm passionate about traveling and have visited over 15 countries.
+- 🌍 I'm passionate about traveling and have visited over 8 countries.
 - 🧩 Puzzle enthusiast, I enjoy solving complex puzzles in my free time.
 
 
