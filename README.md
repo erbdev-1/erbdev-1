@@ -75,6 +75,6 @@
 
 ### Top Languages:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erbdev-1&layout=compact&theme=gruvbox)](https://github.com/erbdev-1/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erbdev-1&layout=default&theme=gruvbox)](https://github.com/erbdev-1/github-readme-stats)
 
 
