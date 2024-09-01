@@ -3,7 +3,9 @@
 
 - 🔭 Tech Educator's Full Stack Development Graduate - 2023 December
 - 🌱 I’m currently learning ---------
--  📫 How to reach me: erbdev@hotmail.com
+- 🕒 **Available for collaborations:** Mon-Fri: 9 AM - 6 PM (GMT+1)
+- 💻 **Preferred Communication:** Email (erbdev@hotmail.com)
+
 -  :smiley: Passionate about: :book: :space_invader: :game_die:
 
 <!--
@@ -55,10 +57,6 @@ Here are some ideas to get you started:
 ![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ---
 ### Stats :
-### Stats :
-
-### Stats :
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=TherealGuah&theme=tokyonight&hide_border=true&date_format=%5B%20Y%20%5Dj%20M)](https://git.io/streak-stats)
 
 
