@@ -70,3 +70,8 @@
 - 🎸 I love playing the guitar and have been part of a local band for 5 years.
 - 🌍 I'm passionate about traveling and have visited over 8 countries.
 - 🧩 Puzzle enthusiast, I enjoy solving complex puzzles in my free time.
+
+### Top Languages:
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erbdev-1&layout=compact)](https://github.com/erbdev-1/github-readme-stats)
+
