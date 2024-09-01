@@ -62,8 +62,10 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ---
-### Stats :
-[![GitHub Streak](https://streak-stats.demolab.com?user=TherealGuah&theme=tokyonight&hide_border=true&date_format=%5B%20Y%20%5Dj%20M)](https://git.io/streak-stats)
+### My GitHub Contributions:
+
+![GitHub Contributions](https://activity-graph.herokuapp.com/graph?username=TherealGuah&theme=github)
+
 
 
 ---
