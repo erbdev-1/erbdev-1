@@ -1,6 +1,15 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=38B2AC&center=true&vCenter=true&width=435&lines=Hi,+I'm+Erhan!✨" alt="Typing SVG" />
+  Hi, I'm Erhan <span style="display: inline-block; animation: wave 2s infinite;">🚀</span>
 </h1>
+
+<style>
+  @keyframes wave {
+    0% { transform: rotate(0deg); }
+    50% { transform: rotate(20deg); }
+    100% { transform: rotate(0deg); }
+  }
+</style>
+
 
 
 
