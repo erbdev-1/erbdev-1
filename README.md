@@ -57,7 +57,10 @@ Here are some ideas to get you started:
 ### Stats :
 ### Stats :
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=TherealGuah&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+### Stats :
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=TherealGuah&theme=tokyonight&hide_border=true&date_format=%5B%20Y%20%5Dj%20M)](https://git.io/streak-stats)
+
 
 ---
 <!---
