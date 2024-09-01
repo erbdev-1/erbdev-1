@@ -2,7 +2,6 @@
 <h1 align="center">Hello there 👋</h1>
 
 - 🔭 Tech Educator's Full Stack Development Graduate - 2023 December
-- 🌱 I’m currently learning ---------
 - 🕒 **Available for collaborations:** Mon-Fri: 9 AM - 6 PM (GMT+1)
 - 💻 **Preferred Communication:** Email (erbdev@hotmail.com)
 
@@ -10,6 +9,13 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erhan-baydi-727452185/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://yourportfolio.com)
+
+### Current Goals:
+
+- 🔍 **Deep Dive into Next.js**: Understanding advanced server-side rendering and static site generation.
+- 🏗️ **Building a Full-Stack Application**: Using TypeScript, React, Node.js, and MongoDB.
+- 📘 **Reading**: "Clean Code" by Robert C. Martin.
+
 
 
 ### Fun Facts:
@@ -65,8 +71,9 @@
 ### Developer Badges:
 
 [![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/YourUserID)
-[![Codewars](https://www.codewars.com/users/YourUserID/badges/small)](https://www.codewars.com/users/YourUserID)
 [![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/YourUserID)
+
+
 
 
 
