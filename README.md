@@ -6,6 +6,12 @@
 - 🕒 **Available for collaborations:** Mon-Fri: 9 AM - 6 PM (GMT+1)
 - 💻 **Preferred Communication:** Email (erbdev@hotmail.com)
 
+  ### Connect with Me:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://yourportfolio.com)
+
+
 ### Fun Facts:
 
 - 🎸 I love playing the guitar and have been part of a local band for 5 years.
