@@ -71,11 +71,13 @@
 - 🌍 I'm passionate about traveling and have visited over 8 countries.
 - 🧩 Puzzle enthusiast, I enjoy solving complex puzzles in my free time.
 
-### Top Languages:
 
 ### Top Languages:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erbdev-1&layout=compact&theme=radical&langs_count=5&hide=)](https://github.com/erbdev-1/github-readme-stats)
 
-### Top Languages:[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erbdev-1&layout=compact&theme=radical&langs_count=5&hide=)](https://github.com/erbdev-1/github-readme-stats)
+### My GitHub Contributions:
+![GitHub Contributions](https://activity-graph.herokuapp.com/graph?username=erbdev-1&theme=github)
+
 
 
 
