@@ -1,7 +1,5 @@
 
 <h1 align="center">Hello there 👋</h1>
-
-- 🔭 Tech Educator's Full Stack Development Graduate - 2023 December
 - 🕒 **Available for collaborations:** Mon-Fri: 9 AM - 6 PM (GMT+1)
 - 💻 **Preferred Communication:** Email (erbdev@hotmail.com)
 
@@ -9,6 +7,13 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erhan-baydi-727452185/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://yourportfolio.com)
+
+### Certifications & Courses:
+
+- **Full Stack Web Development** - Tech Educator, December 2023
+- **JavaScript Algorithms and Data Structures** - FreeCodeCamp, 2022
+- **Advanced React and Redux** - Udemy, 2023
+
 
 ### Current Goals:
 
