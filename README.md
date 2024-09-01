@@ -78,7 +78,7 @@
 ### My GitHub Contributions:
 ### GitHub Achievements:
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=erbdev-1&theme=onedark)](https://github.com/erbdev-1/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=erbdev-1&theme=github-light)](https://github.com/erbdev-1/github-profile-trophy)
 
 
 
