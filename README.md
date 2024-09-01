@@ -62,9 +62,12 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ---
-### My GitHub Contributions:
+### Developer Badges:
 
-![GitHub Contributions](https://activity-graph.herokuapp.com/graph?username=TherealGuah&theme=github)
+[![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/YourUserID)
+[![Codewars](https://www.codewars.com/users/YourUserID/badges/small)](https://www.codewars.com/users/YourUserID)
+[![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/YourUserID)
+
 
 
 
