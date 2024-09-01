@@ -6,7 +6,12 @@
 - 🕒 **Available for collaborations:** Mon-Fri: 9 AM - 6 PM (GMT+1)
 - 💻 **Preferred Communication:** Email (erbdev@hotmail.com)
 
--  :smiley: Passionate about: :book: :space_invader: :game_die:
+### Fun Facts:
+
+- 🎸 I love playing the guitar and have been part of a local band for 5 years.
+- 🌍 I'm passionate about traveling and have visited over 15 countries.
+- 🧩 Puzzle enthusiast, I enjoy solving complex puzzles in my free time.
+
 
 <!--
 
