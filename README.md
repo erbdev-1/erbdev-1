@@ -76,7 +76,10 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erbdev-1&layout=compact&theme=radical&langs_count=5&hide=)](https://github.com/erbdev-1/github-readme-stats)
 
 ### My GitHub Contributions:
-![GitHub Contributions](https://activity-graph.herokuapp.com/graph?username=erbdev-1&theme=github)
+### GitHub Achievements:
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=erbdev-1&theme=onedark)](https://github.com/erbdev-1/github-profile-trophy)
+
 
 
 
