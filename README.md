@@ -1,9 +1,9 @@
-
 <h1 align="center">Hello there 👋</h1>
+
 - 🕒 **Available for collaborations:** Mon-Fri: 9 AM - 6 PM (GMT+1)
 - 💻 **Preferred Communication:** Email (erbdev@hotmail.com)
 
-  ### Connect with Me:
+### Connect with Me:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erhan-baydi-727452185/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://yourportfolio.com)
@@ -14,21 +14,11 @@
 - **JavaScript Algorithms and Data Structures** - FreeCodeCamp, 2022
 - **Advanced React and Redux** - Udemy, 2023
 
-
 ### Current Goals:
 
 - 🔍 **Deep Dive into Next.js**: Understanding advanced server-side rendering and static site generation.
 - 🏗️ **Building a Full-Stack Application**: Using TypeScript, React, Node.js, and MongoDB.
 - 📘 **Reading**: "Clean Code" by Robert C. Martin.
-
-
-
-### Fun Facts:
-
-- 🎸 I love playing the guitar and have been part of a local band for 5 years.
-- 🌍 I'm passionate about traveling and have visited over 8 countries.
-- 🧩 Puzzle enthusiast, I enjoy solving complex puzzles in my free time.
-
 
 ### Featured Projects:
 
@@ -38,57 +28,45 @@
 - **[Project Name 2](https://github.com/YourUsername/Project2):** Another project description highlighting the challenges you solved and the key functionalities.
   ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
-
 ### Languages:
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### Supersets, Dependecies & Frameworks:
+### Supersets, Dependencies & Frameworks:
+
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
----
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
----
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![React-Router-Dom](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 ![Redux-State-Manager](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![React Query](https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-
-
----
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![Mocha](https://img.shields.io/badge/mocha.js-323330?style=for-the-badge&logo=mocha&logoColor=Brown)
 
 ### Databases:
+
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
-###  Tools:
+### Tools:
+
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
----
+
 ### Developer Badges:
 
 [![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/YourUserID)
 [![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/YourUserID)
 
+### Fun Facts:
 
-
-
-
-
----
-<!---
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TherealGuah&show_icons=true&theme=merko)
----
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TherealGuah&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-erbdev-1/erbdev-1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🎸 I love playing the guitar and have been part of a local band for 5 years.
+- 🌍 I'm passionate about traveling and have visited over 8 countries.
+- 🧩 Puzzle enthusiast, I enjoy solving complex puzzles in my free time.
